@@ -1,6 +1,6 @@
 # 应用服务条款 / Terms of Service
 
-最后更新：2026-04-18  
+最后更新：2026-04-18<br>
 Last updated: April 18, 2026
 
 本服务条款适用于 `IceHe.Life`（`https://icehe.life`）及其相关页面、功能和服务。本网站由个人运营者 `IceHe` 维护。联系邮箱：`ice.he.hzy@gmail.com`。
