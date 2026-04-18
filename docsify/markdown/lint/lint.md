@@ -29,7 +29,7 @@ File : style.rb
 
 File : .gitlab-ci.yml
 
-- Mine : https://github.com/IceHe/lib/blob/master/.gitlab-ci.yml
+- Mine : https://github.com/IceHe/icehe-lib/blob/master/.gitlab-ci.yml
 - `mdl` job definition as follow
 
 ```yaml

@@ -91,7 +91,7 @@ find public | sed -e "s/[^-][^\/]*\//  |/g" -e "s/|\([^ ]\)/|── \1/"
 
 Reference
 
-- [.gitlab-ci.yml](https://github.com/IceHe/lib/blob/master/.gitlab-ci.yml)
+- [.gitlab-ci.yml](https://github.com/IceHe/icehe-lib/blob/master/.gitlab-ci.yml)
 
 ### Speed Up
 
@@ -117,7 +117,7 @@ php path/to/download-n-rewrite-resources.php --download --rewrite
 
 Reference
 
-- [download-n-rewrite-resources.php](https://github.com/IceHe/lib/blob/master/snip/lang/php/download-n-rewrite-resources.php)
+- [download-n-rewrite-resources.php](https://github.com/IceHe/icehe-lib/blob/master/snip/lang/php/download-n-rewrite-resources.php)
 
 ## Deploy
 
@@ -152,7 +152,7 @@ pages:
         - master
 ```
 
-Mine : [icehe/lib/.gitlab-ci.yml](https://github.com/IceHe/lib/blob/master/.gitlab-ci.yml)
+Mine : [IceHe/icehe-lib/.gitlab-ci.yml](https://github.com/IceHe/icehe-lib/blob/master/.gitlab-ci.yml)
 
 ### VPS
 

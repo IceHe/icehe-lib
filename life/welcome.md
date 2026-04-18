@@ -77,7 +77,7 @@ Steps :
 
     具体方式可以参考本 Library 的仓库
 
-    -   https://github.com/IceHe/lib
+    -   https://github.com/IceHe/icehe-lib
     -   https://gitlab.com/IceHe/lib
 
 4.  Deploy website

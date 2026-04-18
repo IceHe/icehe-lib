@@ -12,8 +12,8 @@ Refer to [icehe.life/git](/#git) for details.
 
 Update Repository
 
--   lib/repo-self-update.tmpl.sh at master · IceHe/lib · GitHub : https://github.com/IceHe/lib/blob/master/git/repo-self-update.tmpl.sh
+-   icehe-lib/repo-self-update.tmpl.sh at master · IceHe/icehe-lib · GitHub : https://github.com/IceHe/icehe-lib/blob/master/git/repo-self-update.tmpl.sh
 
 Change Author Info of Commits
 
--   lib/change-author-info-of-commits.tmpl.sh at master · IceHe/lib · GitHub : https://github.com/IceHe/lib/blob/master/git/change-author-info-of-commits.tmpl.sh
+-   icehe-lib/change-author-info-of-commits.tmpl.sh at master · IceHe/icehe-lib · GitHub : https://github.com/IceHe/icehe-lib/blob/master/git/change-author-info-of-commits.tmpl.sh

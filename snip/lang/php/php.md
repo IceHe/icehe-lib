@@ -10,10 +10,10 @@ References
 
 Functions
 
-- [Compare type & value](https://github.com/IceHe/lib/blob/master/snip/lang/php/cmp-type-n-val.php) - first ver.
-- [Compare type & value](https://github.com/IceHe/lib/blob/master/snip/lang/php/cmp-type-n-val.better.php) - better ver.
-- [Trim query string in URL](https://github.com/IceHe/lib/blob/master/snip/lang/php/url-without-query.php)
+- [Compare type & value](https://github.com/IceHe/icehe-lib/blob/master/snip/lang/php/cmp-type-n-val.php) - first ver.
+- [Compare type & value](https://github.com/IceHe/icehe-lib/blob/master/snip/lang/php/cmp-type-n-val.better.php) - better ver.
+- [Trim query string in URL](https://github.com/IceHe/icehe-lib/blob/master/snip/lang/php/url-without-query.php)
 
 Scripts
 
-- [Download & rewrite resources](https://github.com/IceHe/lib/blob/master/snip/lang/php/download-n-rewrite-resources.php)
+- [Download & rewrite resources](https://github.com/IceHe/icehe-lib/blob/master/snip/lang/php/download-n-rewrite-resources.php)

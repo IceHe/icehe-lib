@@ -1094,12 +1094,12 @@ Reference : Search "macos keyboard cannot repeat" on Google
 
 Git clone the projects to the local machine
 
-e.g. clone github.com/IceHe/lib
+e.g. clone github.com/IceHe/icehe-lib
 
 ```bash
 mkdir ~/Projects
 cd ~/Projects
-git clone git@github.com:IceHe/lib.git
+git clone git@github.com:IceHe/icehe-lib.git
 ```
 
 ### JDK
@@ -1305,8 +1305,8 @@ IntelliJ IDEA
 
     1.  Download on the Internet :
 
-        -   A. [SolarizedLight\_\_Alternate.icls](https://github.com/IceHe/lib/raw/master/mac/jetbrains/Solarized_Light__Alternate_.icls) or
-        -   B. [SolarizedLight\_\_Alternate.jar](https://github.com/IceHe/lib/raw/master/mac/jetbrains/Solarized_Light__Alternate_.jar)
+        -   A. [SolarizedLight\_\_Alternate.icls](https://github.com/IceHe/icehe-lib/raw/master/mac/jetbrains/Solarized_Light__Alternate_.icls) or
+        -   B. [SolarizedLight\_\_Alternate.jar](https://github.com/IceHe/icehe-lib/raw/master/mac/jetbrains/Solarized_Light__Alternate_.jar)
 
     1.  `Preferences` → `Editor` → `Color Scheme` → `Scheme` → `Import` → Select the file downloaded above
 
